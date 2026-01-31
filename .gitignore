@@ -1,0 +1,4 @@
+.clawdbot/
+node_modules/
+.env
+*.log
